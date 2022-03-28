@@ -20,7 +20,4 @@ delete producto.disponible
 
 
 
-
-
-
 console.table(producto)
