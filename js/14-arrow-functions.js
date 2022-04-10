@@ -49,3 +49,5 @@ console.log('---- Arrow function de 1 línea sin parámetros')
 const sumarArrow = () =>  2 + 2
 const resultadofinal02 = sumarArrow()
 console.log(resultadofinal02)
+
+
